@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "reason_activity_motion",
+      "value": "Used to detect sedentary periods and step activity so hydration and movement reminders can trigger at the right time."
+    },
+    {
+      "name": "PillTrackerAbility_label",
+      "value": "Pill Tracker"
+    },
+    {
+      "name": "PillTrackerAbility_desc",
+      "value": "Medication reminder tracker ability"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_page",
+      "value": "#0B1020"
+    },
+    {
+      "name": "card",
+      "value": "#171C2E"
+    },
+    {
+      "name": "card_alt",
+      "value": "#212844"
+    },
+    {
+      "name": "accent",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "hydration",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "sedentary",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "medication",
+      "value": "#BF5AF2"
+    },
+    {
+      "name": "workout",
+      "value": "#30D158"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8E8E93"
+    }
+  ]
+}
